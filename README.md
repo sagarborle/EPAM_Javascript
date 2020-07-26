@@ -1,2 +1,1 @@
-# AjayKatkadeJavaScript
-epamTask
+Javascript task EPAM
